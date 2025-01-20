@@ -16,7 +16,7 @@ After working with various security tools in isolated environments, I realized t
 
 ### 🌟 Key Features
 
-- **Enterprise-Grade SIEM Implementation**
+- **Enterprise SIEM Implementation**
   - Wazuh manager with custom rule sets
   - Real-time alert correlation
   - Automated response actions
