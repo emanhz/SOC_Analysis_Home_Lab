@@ -1,4 +1,4 @@
-# Security Lab Configuration Guide
+# Configuration Guide
 
 ## Table of Contents
 - [Initial Setup](#initial-setup)
