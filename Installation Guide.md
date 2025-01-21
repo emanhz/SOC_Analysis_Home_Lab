@@ -1,4 +1,4 @@
-# Security Lab Installation Guide
+# Installation Guide
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
