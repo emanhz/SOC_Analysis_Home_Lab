@@ -282,7 +282,7 @@ This lab has been used to:
 ## 📚 Detailed Documentation
 
 Complete documentation is available in the `/docs` directory:
-- [Installation Guide](docs/installation.md)
+- [Installation Guide](installation.md)
 - [Configuration Guide](docs/configuration.md)
 - [Troubleshooting Guide](docs/troubleshooting.md)
 - [Best Practices](docs/best-practices.md)
