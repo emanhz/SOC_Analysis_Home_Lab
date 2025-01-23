@@ -8,7 +8,7 @@
 
 ## 🎯 Project Overview
 
-Welcome to my advanced security monitoring laboratory! This project represents my journey in building a professional security operations environment that mirrors real-world enterprise setups. As a passionate cybersecurity enthusiast, I've designed this lab to demonstrate practical skills in security monitoring, incident response, and threat detection.
+Welcome to my advanced security monitoring laboratory! This project represents my journey in building a professional security operations environment that mirrors real-world enterprise setups. My goal with this lab was to demonstrate practical skills in security monitoring, incident response, and threat detection.
 
 ### 💡 Motivation
 
