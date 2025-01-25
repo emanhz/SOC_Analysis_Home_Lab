@@ -19,6 +19,7 @@ iface eth0 inet static
     netmask 255.255.255.0
     gateway 192.168.1.1
 
+
 # Windows 10 network setup (PowerShell)
 New-NetIPAddress -InterfaceAlias "Ethernet" -IPAddress 192.168.1.20 -PrefixLength 24 -DefaultGateway 192.168.1.1
 
