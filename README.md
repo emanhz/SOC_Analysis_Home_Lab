@@ -1,6 +1,6 @@
 # 🛡️ SOC Analysis Home Lab
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Lab Status](https://img.shields.io/badge/Lab_Status-Active-brightgreen)](https://github.com/emanhz/security-monitoring-lab)
 [![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-blue)](https://github.com/yourusername/security-monitoring-lab/wiki)
 [![Wazuh](https://img.shields.io/badge/SIEM-Wazuh-orange)](https://wazuh.com/)
